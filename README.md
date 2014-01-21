@@ -1,2 +1,3 @@
-newproject
-==========
+# New Project
+
+## Tim + Jordan + Josh
