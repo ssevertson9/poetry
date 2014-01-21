@@ -1,27 +1,22 @@
-total 1002064
 drwxr-xr-x    2 tlberglund  staff         68 Dec 21 21:43 Applications
-drwxr-xr-x@   8 tlberglund  staff        272 Jan 18 09:20 Box Documents
 drwx------+   6 tlberglund  staff        204 Jan 21 08:45 Desktop
 drwx------+  52 tlberglund  staff       1768 Sep 14 15:34 Documents
 drwx------+  36 tlberglund  staff       1224 Jan 19 16:14 Downloads
 drwx------@  35 tlberglund  staff       1190 Jan 20 19:15 Dropbox
-drwxr-xr-x    4 tlberglund  staff        136 Dec  3  2012 Dropbox-github
 drwx------@  64 tlberglund  staff       2176 Oct 27 23:01 Library
 drwx------+  31 tlberglund  staff       1054 Jan 18 17:29 Movies
 drwx------+   9 tlberglund  staff        306 Sep 26  2012 Music
-drwx------   53 tlberglund  staff       1802 Jul 26  2012 Old Personal Documents
+drwx------   53 tlberglund  staff       1802 Jul 26  2012 New Personal Documents
 drwx------+  51 tlberglund  staff       1734 Jan 11 10:42 Pictures
 drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
-drwxr-xr-x   70 tlberglund  staff       2380 Jan  1 21:11 Purchased Software
+drwxr-xr-x   70 tlberglund  staff       2380 Jan  1 21:11 Borrowed Software
 drwxr-xr-x+   3 tlberglund  staff        102 Mar 17  2013 Sites
 drwxr-xr-x   12 tlberglund  staff        408 Dec  1  2012 Tools
-drwxr-xr-x    3 root        wheel        102 Nov 14 07:34 Xcode.app
 drwxr-xr-x  135 tlberglund  staff       4590 Oct 11 14:12 code
 -rw-r--r--@   1 tlberglund  staff  513056256 Dec  2 19:36 disk.dmg
 drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
 drwxr-xr-x   50 tlberglund  staff       1700 Jan 14 12:42 github
 drwxr-xr-x   17 tlberglund  staff        578 Feb 13  2013 gradle-book-2
-drwxr-xr-x    3 tlberglund  staff        102 Jul 19  2013 old-emacs
 drwxr-xr-x    6 tlberglund  staff        204 Aug 11 22:49 poems
 drwxr-xr-x    3 tlberglund  staff        102 Aug  1 01:34 recover
 drwxr-xr-x   21 tlberglund  staff        714 Jan 15 10:06 scripts
